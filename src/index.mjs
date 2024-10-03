@@ -6,7 +6,7 @@ const inputData = {
   from: 'Ben',
   subject: null,
   'full name without captlize': 'Leonardo G Urci',
-  introductionText: 'Hi I\'m Leonardo, but you can call me as Urci, hope seeing you all soon!'
+  introductionText: 'Hi I\'m Leonardo, but you can call me as Urci! Hope to see you all soon!'
 };
 
 (async () => {

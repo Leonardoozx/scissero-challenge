@@ -1,4 +1,4 @@
-import generateDocx from '../generateDocx.mjs';
+import generateDocx from './generateDocx.mjs';
 
 const inputData = {
   date: '05/03/2024',

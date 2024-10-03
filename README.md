@@ -27,3 +27,10 @@ This project is a Node.js application that generates a DOCX document using the `
     npm start
     ```
     #### A file 'test.docx' will be generated with the data of inputData object which is in src/index.mjs file  
+
+    Or if wanting to run the direct answer to the assessment:
+
+    ```bash
+    node assessmentDirectResponse.mjs
+    ```
+    ### PS: It will throw an error for not having the DocxHandler class defined
